@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://glpzzz.github.io">Gabriel López</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://glpzzz.is-a.dev">Gabriel A. López López</a></h1>
 <h3 align="center">I'm a software developer from Cuba</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glpzzz" alt="glpzzz" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/glpzzz?tab=repositories](https://github.com/glpzzz?tab=repositories)
+- 👨‍💻 My personal projects are available at [https://github.com/glpzzz?tab=repositories](https://github.com/glpzzz?tab=repositories) and the ones developed with [my team](https://www.daxslab.com) at [https://github.com/daxslab?tab=repositories](https://github.com/daxslab?tab=repositories)
 
 - 📫 How to reach me **https://t.me/glpzzz**
 
@@ -14,5 +14,5 @@
 <a href="https://twitter.com/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="glpzzz" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="glpzzz" height="20" width="20" /></a>
 <a href="https://fb.com/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="glpzzz" height="20" width="20" /></a>
-<a href="https://instagram.com/glpzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="glpzz" height="20" width="20" /></a>
+<a href="https://instagram.com/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="glpzz" height="20" width="20" /></a>
 </p>
