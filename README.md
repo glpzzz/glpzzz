@@ -1,18 +1,62 @@
-<h1 align="center">Hi 👋, I'm <a href="https://glpzzz.is-a.dev">Gabriel A. López López</a></h1>
-<h3 align="center">I'm a software developer from Cuba</h3>
+# Hello World!
+
+I’m Gabriel A. López López. I’m a software engineer living in [Cienfuegos, Cuba](https://www.openstreetmap.org/node/259846360). I am a fan of programming, web development, and entrepreneurship. I’m also interested in technology and music. Contact me if you think I can help you with something.
+
+My personal projects are available at [https://github.com/glpzzz?tab=repositories](https://github.com/glpzzz?tab=repositories) and the ones developed with [my team](https://www.daxslab.com) at [https://github.com/daxslab?tab=repositories](https://github.com/daxslab?tab=repositories)
+
+## Positions
+
+* Current
+    * CEO & Founder -> [Daxslab](https://www.daxslab.com)
+    * Marketing & Sales instructor ->
+[CubaEmprende](https://www.cubaemprendecienfuegos.org)
+* Former
+    * Professor (Web Development, Data Structures) -> [Universidad de Cienfuegos](https://www.ucf.edu.cu)
+
+## My Tech Stack
+
+<ul class="list-inline">
+    <li>Apache</li>
+    <li>Bootstrap</li>
+    <li>C++</li>
+    <li>C</li>
+    <li>CSS3</li>
+    <li>Docker</li>
+    <li>HTML5</li>
+    <li>Java</li>
+    <li>JavaScript</li>
+    <li>jQuery</li>
+    <li>MySQL</li>
+    <li>PHP</li>
+    <li>PostgreSQL</li>
+    <li>Python</li>
+    <li>Qt</li>
+    <li>Yii PHP Framework</li>
+</ul>
+
+## Currently using
+
+* [Dell Inspiron 5523](https://www.dell.com/yu/business/p/inspiron-15z-5523/pd)
+* [Ubuntu 20.04](https://www.ubuntu.com)
+* [dwm](https://dwm.suckless.org), ([my custom build](https://github.com/glpzzz/dwm))
+* [my dotfiles](https://github.com/glpzzz/dotfiles)
+
+## Other stuff I like
+
+* Eat
+* Films
+* Music
+* Skating
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glpzzz" alt="glpzzz" /> </p>
 
-- 👨‍💻 My personal projects are available at [https://github.com/glpzzz?tab=repositories](https://github.com/glpzzz?tab=repositories) and the ones developed with [my team](https://www.daxslab.com) at [https://github.com/daxslab?tab=repositories](https://github.com/daxslab?tab=repositories)
+## Contact me
 
-- 📫 How to reach me **https://t.me/glpzzz**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=glpzzz&show_icons=true" alt="glpzzz" /> </p>
-
-<p align="center">
-<a href="https://dev.to/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="glpzzz" height="20" width="20" /></a>
-<a href="https://twitter.com/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="glpzzz" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="glpzzz" height="20" width="20" /></a>
-<a href="https://fb.com/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="glpzzz" height="20" width="20" /></a>
-<a href="https://instagram.com/glpzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="glpzz" height="20" width="20" /></a>
-</p>
+* [CodersRank](https://profile.codersrank.io/user/glpzzz)
+* [DEV](https://dev.to/glpzzz)
+* [Github](https://github.com/glpzzz)
+* [LinkedIn](https://www.linkedin.com/in/glpzzz)
+* [Skype](https://join.skype.com/invite/swrMO6a3xWXv)
+* [StackOverflow](https://stackoverflow.com/users/12115958/gabriel-a-l%c3%b3pez-l%c3%b3pez)
+* [Telegram](https://t.me/glpzzz)
+* [Twitter](https://twitter.com/glpzzz)
