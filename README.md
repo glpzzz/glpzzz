@@ -1,4 +1,4 @@
-# Hello World! -> here is my [blog](https://glpzzz.is-a.dev)
+<h1><a href="https://glpzzz.is-a.dev"><img src="https://github.com/glpzzz/glpzzz/blob/master/hello-im-glpzzz.jpg" alt="Hello World! Click to read my blog"/></a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glpzzz" alt="glpzzz" /> </p>
 
