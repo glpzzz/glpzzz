@@ -10,6 +10,8 @@ My personal projects are available at [https://github.com/glpzzz?tab=repositorie
 
 Apache, Bootstrap, C++, C, CSS3, Docker, HTML5, Java, JavaScript, jQuery, MySQL, PHP, PostgreSQL, Python, Qt, Yii PHP Framework
 
+![glpzzz skills chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=glpzzz)
+
 ## Contact me
 
 * [CodersRank](https://profile.codersrank.io/user/glpzzz)
