@@ -5,7 +5,7 @@
 I’m Gabriel A. López López. I’m a software engineer living in [Cienfuegos, Cuba](https://www.openstreetmap.org/node/259846360). I am a fan of programming, web development, and entrepreneurship. I’m also interested in technology and music. Contact me if you think I can help you with something.
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=glpzzz&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=glpzzz&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px"
 />
 
 My personal projects are available at [https://github.com/glpzzz?tab=repositories](https://github.com/glpzzz?tab=repositories) and the ones developed with [my team](https://www.daxslab.com) at [https://github.com/daxslab?tab=repositories](https://github.com/daxslab?tab=repositories)
