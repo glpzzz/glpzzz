@@ -15,10 +15,6 @@ My personal projects are available at [https://github.com/glpzzz?tab=repositorie
 - [The 75% keyboard layout](https://glpzzz.is-a.dev/2020/12/02/75-percent-keyboard-layout.html)
 <!-- BLOG-POST-LIST:END -->
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=glpzzz&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px"
-/>
-
 ## My Tech Stack
 
 ![Apache, Bootstrap, C++, C, CSS3, Docker, HTML5, Java, JavaScript, jQuery, MySQL, PHP, PostgreSQL, Python, Qt, Yii PHP Framework](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=glpzzz)
