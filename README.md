@@ -21,7 +21,7 @@ My personal projects are available at [https://github.com/glpzzz?tab=repositorie
 
 ## My Tech Stack
 
-[Apache, Bootstrap, C++, C, CSS3, Docker, HTML5, Java, JavaScript, jQuery, MySQL, PHP, PostgreSQL, Python, Qt, Yii PHP Framework](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=glpzzz)
+![Apache, Bootstrap, C++, C, CSS3, Docker, HTML5, Java, JavaScript, jQuery, MySQL, PHP, PostgreSQL, Python, Qt, Yii PHP Framework](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=glpzzz)
 
 ## Contact me
 
