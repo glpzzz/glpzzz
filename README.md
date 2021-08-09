@@ -24,7 +24,12 @@ My personal projects are available at [https://github.com/glpzzz?tab=repositorie
 ![glpzzz's overall activity acording to CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=glpzzz&branding=false)
 
 ## My Github Stats
-![glpzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=glpzzz)
+<a href="https://github.com/glpzzz" style="width: 50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glpzzz" alt="glpzzz's GitHub stats"/>
+</a>
+<a href="https://github.com/glpzzz" style="width: 50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glpzzz&layout=compact" alt="glpzzz's Top Langs" />
+</a>
 
 ## Contact me
 
