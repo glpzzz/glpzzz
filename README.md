@@ -8,11 +8,11 @@ My personal projects are available at [https://github.com/glpzzz?tab=repositorie
 
 ## Latests blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A playlist](https://glpzzz.is-a.dev/2021/04/28/playlist.html)
-- [New tool: Social Tags Generator](https://glpzzz.is-a.dev/2021/04/12/social-tags-generator.html)
-- [Special links for our websites](https://glpzzz.is-a.dev/2021/02/21/special-contact-links.html)
-- [Modern JavaScript that Internet Explorer 11 dislikes](https://glpzzz.is-a.dev/2021/01/29/modern-javascript-that-ie-dislike.html)
-- [The 75% keyboard layout](https://glpzzz.is-a.dev/2020/12/02/75-percent-keyboard-layout.html)
+- [Updating my website with htmx](https://glpzzz.dev/2023/09/29/updating-my-website-with-htmx.html)
+- [A playlist](https://glpzzz.dev/2021/04/28/playlist.html)
+- [New tool: Social Tags Generator](https://glpzzz.dev/2021/04/12/social-tags-generator.html)
+- [Special links for our websites](https://glpzzz.dev/2021/02/21/special-contact-links.html)
+- [Modern JavaScript that Internet Explorer 11 dislikes](https://glpzzz.dev/2021/01/29/modern-javascript-that-ie-dislike.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
