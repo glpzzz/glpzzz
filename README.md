@@ -8,11 +8,11 @@ My personal projects are available at [https://github.com/glpzzz?tab=repositorie
 
 ## Latests blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Yii3 packages into WordPress](https://glpzzz.dev/2024/03/03/integrating-yii3-packages-into-wordpress.html)
 - [Step-by-Step Guide: Enabling WWAN on ThinkPad P50 Ubuntu](https://glpzzz.dev/2024/01/22/active-wwan-lenovo-thinkpad-p50-for-ubuntu.html)
 - [Updating my website with htmx](https://glpzzz.dev/2023/09/29/updating-my-website-with-htmx.html)
 - [A playlist](https://glpzzz.dev/2021/04/28/playlist.html)
 - [New tool: Social Tags Generator](https://glpzzz.dev/2021/04/12/social-tags-generator.html)
-- [Special links for our websites](https://glpzzz.dev/2021/02/21/special-contact-links.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Tech Stack
